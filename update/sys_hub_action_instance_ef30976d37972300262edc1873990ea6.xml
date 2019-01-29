@@ -2,7 +2,7 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type>
+        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent/>
         <comment>Create Human Resources Task</comment>
         <compiled_snapshot/>
@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-29 15:00:56</sys_created_on>
         <sys_id>ef30976d37972300262edc1873990ea6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_hub_action_instance_ef30976d37972300262edc1873990ea6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-29 15:00:56</sys_updated_on>
+        <sys_updated_on>2019-01-29 16:07:44</sys_updated_on>
         <ui_id>761f1b42-502c-4de6-9cf6-d32ec2f93429</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ef30976d37972300262edc1873990ea6"/>
@@ -39,6 +39,20 @@
         <value>x_58872_needit_needit_task</value>
         <variable display_value="">957cdff1531003003bf1d9109ec58753</variable>
     </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ef30976d37972300262edc1873990ea6</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-29 16:07:35</sys_created_on>
+        <sys_id>f37f57e537d72300262edc1873990e7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-29 16:07:35</sys_updated_on>
+        <value>x_58872_needit_needit_task</value>
+        <variable display_value="">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=ef30976d37972300262edc1873990ea6"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>field_values</field>
@@ -53,6 +67,18 @@
         <value>u_needit={{6d5a63d4-93b7-4ce3-84a4-c373af0ce804.record}}^assigned_to={{d7e31999-a3ed-4019-94e2-c1a7b0b724f1.answer.assignee}}^due_date={{6d5a63d4-93b7-4ce3-84a4-c373af0ce804.record.u_when_needed}}^short_description=Complete Human Resources Task</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>ef30976d37972300262edc1873990ea6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-29 16:07:35</sys_created_on>
+        <sys_id>737f57e537d72300262edc1873990e7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-29 16:07:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value>u_needit={{6d5a63d4-93b7-4ce3-84a4-c373af0ce804.record}}^assigned_to={{d7e31999-a3ed-4019-94e2-c1a7b0b724f1.answer.assignee}}^due_date={{6d5a63d4-93b7-4ce3-84a4-c373af0ce804.record.u_when_needed}}^short_description=Complete Human Resources Task</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>task_table</field>
         <id>ef30976d37972300262edc1873990ea6</id>
         <sys_created_by>admin</sys_created_by>
@@ -62,6 +88,18 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-01-29 15:00:56</sys_updated_on>
         <table>var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>ef30976d37972300262edc1873990ea6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-29 16:07:35</sys_created_on>
+        <sys_id>bf7f57e537d72300262edc1873990e7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-29 16:07:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
         <value/>
     </sys_element_mapping>
 </record_update>
