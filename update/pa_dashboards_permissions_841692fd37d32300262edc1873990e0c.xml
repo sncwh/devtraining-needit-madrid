@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="NeedIt Application">3c731a7d37d32300262edc1873990e32</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>5137153cc611227c000bbd1bd8cd2005</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-30 05:25:12</sys_created_on>
+        <sys_id>841692fd37d32300262edc1873990e0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5137153cc611227c000bbd1bd8cd2005</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_841692fd37d32300262edc1873990e0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-30 05:25:12</sys_updated_on>
+        <type>3</type>
+        <user display_value="Fred Luddy">5137153cc611227c000bbd1bd8cd2005</user>
+        <write>true</write>
+    </pa_dashboards_permissions>
+</record_update>
